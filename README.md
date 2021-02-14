@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @RVelvet-39
+- 👀 I’m interested in Java, C++, Elixir and Light Novel.
+- 🌱 I’m currently improving myself in the different topics.
+- 📫 You can feel free to contact me about anything in my interests and projects.
